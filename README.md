@@ -1,2 +1,2 @@
 # My_Notebooks
-My Python Notebooks
+My Notebooks
